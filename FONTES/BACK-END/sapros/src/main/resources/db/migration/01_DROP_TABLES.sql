@@ -1,0 +1,12 @@
+DROP TABLE alternativa;
+DROP TABLE questao;
+DROP TABLE nivel;
+DROP TABLE disciplina;
+DROP TABLE empresa;
+DROP TABLE candidato;
+DROP TABLE arquivo;
+DROP TABLE usuario_grupo;
+DROP TABLE grupo_permissao;
+DROP TABLE grupo;
+DROP TABLE permissao;
+DROP TABLE usuario;
